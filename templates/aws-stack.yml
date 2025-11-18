@@ -12,7 +12,7 @@ Description: "Buildkite stack %v"
 # and how to use it most effectively and securely, check out
 # the following resources:
 #
-# * Elastic CI Stack for AWS Overview: https://buildkite.com/docs/agent/v3/elastic_ci_aws
+# * Elastic CI Stack for AWS Overview: https://buildkite.com/docs/agent/v3/aws/elastic-ci-stack
 # * Elastic CI Stack for AWS Tutorial: https://buildkite.com/docs/tutorials/elastic-ci-stack-aws
 # * Running Buildkite agent on AWS: https://buildkite.com/docs/agent/v3/aws
 # * GitHub Repo for Elastic CI Stack for AWS: https://github.com/buildkite/elastic-ci-stack-for-aws
